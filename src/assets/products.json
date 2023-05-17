@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Anchor and Chapel mug",
+        "pictureUrl": "./src/assets/anchor-and-chapel-mug.jpg",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi quae veniam explicabo voluptatibus, minima odit aspernatur dolores soluta voluptatum hic amet quis laudantium ducimus! Accusantium dolore laboriosam nisi facilis.",
+        "price" : 299,
+        "discountPrice" : null,
+        "info" : ["black color", "printed to perfection", "perfect for winter days"],
+        "infoHidden" : true
+    },
+    {
+        "id": 2,
+        "name": "Rounded single color mug",
+        "pictureUrl": "./src/assets/black-mug.jpg",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi quae veniam explicabo voluptatibus, minima odit aspernatur dolores soluta voluptatum hic amet quis laudantium ducimus! Accusantium dolore laboriosam nisi facilis.",
+        "price" : 500,
+        "discountPrice" : 299,
+        "info" : ["available in many colors", "no print", "rounded at the bottom"],
+        "infoHidden" : true
+    },
+    {
+        "id": 3,
+        "name": "Angular single color mug",
+        "pictureUrl": "./src/assets/white-mug.jpg",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi quae veniam explicabo voluptatibus, minima odit aspernatur dolores soluta voluptatum hic amet quis laudantium ducimus! Accusantium dolore laboriosam nisi facilis.",
+        "price" : 500,
+        "discountPrice" : 299,
+        "info" : ["available in many colors", "no print", "not rounded at the bottom"],
+        "infoHidden" : true
+    },
+    {
+        "id": 4,
+        "name": "We Founders mug",
+        "pictureUrl": "./src/assets/we-founders-mug.jpg",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi quae veniam explicabo voluptatibus, minima odit aspernatur dolores soluta voluptatum hic amet quis laudantium ducimus! Accusantium dolore laboriosam nisi facilis.",
+        "price" : 300,
+        "discountPrice" : null,
+        "info" : ["white color", "cool print with a heart", "holds crayons if needed"],
+        "infoHidden" : true
+    },
+    {
+        "id": 5,
+        "name": "Umbrella mug",
+        "pictureUrl": "./src/assets/umbrella-mug.jpg",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi quae veniam explicabo voluptatibus, minima odit aspernatur dolores soluta voluptatum hic amet quis laudantium ducimus! Accusantium dolore laboriosam nisi facilis.",
+        "price" : 1000,
+        "discountPrice" : 500,
+        "info" : ["exclusive outdoors mug", "umbrella print", "extremely weather resistant"],
+        "infoHidden" : true
+    },
+    {
+        "id": 6,
+        "name": "snow mug",
+        "pictureUrl": "./src/assets/the-adventure-begins-mug.jpg",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi quae veniam explicabo voluptatibus, minima odit aspernatur dolores soluta voluptatum hic amet quis laudantium ducimus! Accusantium dolore laboriosam nisi facilis.",
+        "price" : 100,
+        "discountPrice" : null,
+        "info" : ["good for holding snow", "not for drinking", "cool print"],
+        "infoHidden" : true
+    }
+]
